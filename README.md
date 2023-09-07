@@ -1,3 +1,3 @@
-# BeTheHero-Front
+# Be The Hero - Front
 
-Aplicação em React feita durante a Semana OmniStack 11 da RocketSeat.
+App developed in React during OmniStack Week 11, from RocketSeat.
